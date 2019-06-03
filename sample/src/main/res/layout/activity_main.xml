@@ -20,7 +20,7 @@
         app:cornerOutside="false"
         app:cornerWidth="3dp"
         app:laserColor="@color/color_laser"
-        app:laserVisible="true"
+        app:laserVisible="false"
         app:scanRectHeight="150dp"
         app:scanRectWidth="150dp" />
 
